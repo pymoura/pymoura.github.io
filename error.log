@@ -90,3 +90,17 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
+----------
+
+Sun Jun 05 2022 14:40:24 GMT-0700 (Pacific Daylight Time)
+
+To github.com:pymoura/pymoura.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:pymoura/pymoura.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
